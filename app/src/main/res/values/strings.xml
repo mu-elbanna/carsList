@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cars</string>
+    <string name="construction">Constructed at</string>
+    <string name="used">Used Car</string>
+    <string name="not_used">New Car</string>
+    <string name="error_getting_data">Error getting data</string>
+    <string name="no_net">No internet connection!</string>
+</resources>
